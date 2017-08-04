@@ -1,6 +1,6 @@
-# Project Name #
+# Leave A Mark #
 
-<!-- 
+<!--
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
 
 There is an approach called "working backwards" that is widely used at Amazon. They work backwards from the customer, rather than starting with an idea for a product and trying to bolt customers onto it. While working backwards can be applied to any specific product decision, using this approach is especially important when developing new products or features.
@@ -9,36 +9,50 @@ For new initiatives a product manager typically starts by writing an internal pr
 
 If the benefits listed don't sound very interesting or exciting to customers, then perhaps they're not (and shouldn't be built). Instead, the product manager should keep iterating on the press release until they've come up with benefits that actually sound like benefits. Iterating on a press release is a lot less expensive than iterating on the product itself (and quicker!).
 
-If the press release is more than a page and a half, it is probably too long. Keep it simple. 3-4 sentences for most paragraphs. Cut out the fat. Don't make it into a spec. You can accompany the press release with a FAQ that answers all of the other business or execution questions so the press release can stay focused on what the customer gets. My rule of thumb is that if the press release is hard to write, then the product is probably going to suck. Keep working at it until the outline for each paragraph flows. 
+If the press release is more than a page and a half, it is probably too long. Keep it simple. 3-4 sentences for most paragraphs. Cut out the fat. Don't make it into a spec. You can accompany the press release with a FAQ that answers all of the other business or execution questions so the press release can stay focused on what the customer gets. My rule of thumb is that if the press release is hard to write, then the product is probably going to suck. Keep working at it until the outline for each paragraph flows.
 
 Oh, and I also like to write press-releases in what I call "Oprah-speak" for mainstream consumer products. Imagine you're sitting on Oprah's couch and have just explained the product to her, and then you listen as she explains it to her audience. That's "Oprah-speak", not "Geek-speak".
 
 Once the project moves into development, the press release can be used as a touchstone; a guiding light. The product team can ask themselves, "Are we building what is in the press release?" If they find they're spending time building things that aren't in the press release (overbuilding), they need to ask themselves why. This keeps product development focused on achieving the customer benefits and not building extraneous stuff that takes longer to build, takes resources to maintain, and doesn't provide real customer benefit (at least not enough to warrant inclusion in the press release).
  -->
- 
-## Heading ##
+
+## Leave A Mark ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
 
-## Sub-Heading ##
+
+## Description ##
+For people interested in collaborative creation and art
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
 
 ## Summary ##
+I am making a digital rendition of yayoi kusama's dot-covered obliteration room:
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 
+Art museum original is built as a traditional, prefabricated american suburban houses with white interiors, containing familiar household objects such as a kitchen counter, couch, and teapot, all painted white.
+
+As visitors enter, they are handed a set of stickers, each a different brightly colored dot of a varying size. Visitors are asked to leave their mark wherever they choose, placing the circle stickers anywhere they like. The space gradually transforms as a result of the interaction and the mass accumulation of the dots ultimately changes the white interior until it becomes an unrecognizable blur of colors.
+(edited excerpt from https://www.designboom.com/art/yayoi-kusama-david-zwirner-obliteration-room-new-york-05-26-2015/)
+
 ## Problem ##
+Not everyone can travel somewhere to see an exhibition
   > Describe the problem your product solves.
 
 ## Solution ##
+Though it does alter the experience, an internet version is more accessible.
   > Describe how your product elegantly solves the problem.
 
 ## Quote from You ##
+I like it.
   > A quote from a spokesperson in your company.
 
 ## How to Get Started ##
+ Once you land on the page, you can add dots, similar to adding stickers in the real space. You can also leave a note on the dots you add. As you hover over dots previously added by others you can see the note and a screen capture of the space when it was added as well as share it on social media.
   > Describe how easy it is to get started.
 
 ## Customer Quote ##
+I like it.
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
 ## Closing and Call to Action ##
+Leave a mark in the virtual room and be a part of its transformation.
   > Wrap it up and give pointers where the reader should go next.
